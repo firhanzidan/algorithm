@@ -1,2 +1,2 @@
 # recipeapp
-this is the test of mcpayment interview process number 1
+this is the test of mcpayment interview process algorithm
